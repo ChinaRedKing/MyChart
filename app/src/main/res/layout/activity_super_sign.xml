@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvMon"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvTues"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvWed"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvThur"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvFri"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvSat"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvSun"
+        style="@style/normal_day"
+        android:background="@drawable/shape_circle_normal_day"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--初始时中间的大圆,通过动画来放大-->
+    <!--签到1-->
+    <TextView
+        android:id="@+id/tvMonday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_monday"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--签到2-->
+    <TextView
+        android:id="@+id/tvTuesday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_tuesday"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--签到3-->
+    <TextView
+        android:id="@+id/tvWednesday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_wednesday"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--签到4-->
+    <TextView
+        android:id="@+id/tvThursday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_thursday"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--签到5-->
+    <TextView
+        android:id="@+id/tvFriday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_friday"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--签到6-->
+    <TextView
+        android:id="@+id/tvSaturday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_saturday"
+        android:text=""
+        android:visibility="gone" />
+
+    <!--签到7-->
+    <TextView
+        android:id="@+id/tvSunday"
+        style="@style/sign_day"
+        android:background="@drawable/shape_circle_sunday"
+        android:text=""
+        android:visibility="gone" />
+
+</FrameLayout>

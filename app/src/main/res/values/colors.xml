@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="sign_blue">#2CFED3</color>
+    <color name="sign_orange">#FD7222</color>
+
+
+    <color name="no_sign">#DEECF0</color>
+    <color name="sign_mon">#FD7222</color>
+    <color name="sign_tues">#F2DE01</color>
+    <color name="sign_wed">#DD0A17</color>
+    <color name="sign_thurs">#2CFED3</color>
+    <color name="sign_fri">#68FE2C</color>
+    <color name="sign_sat">#DD2CFE</color>
+    <color name="sign_sun">#FE2C7B</color>
+    <color name="is_sign">#0FB8F0</color>
+</resources>
